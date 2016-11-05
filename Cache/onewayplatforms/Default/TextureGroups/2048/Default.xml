@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">spr_wall_spr_wall_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="3">spr_player_spr_player_0.tpe</tpe>
+  <tpe x="2" y="74" tpage="Default_0" entry="1">spr_portal_spr_portal_0.tpe</tpe>
+  <tpe x="38" y="2" tpage="Default_0" entry="5">spr_player_b_spr_player_b_0.tpe</tpe>
+  <tpe x="74" y="2" tpage="Default_0" entry="7">spr_enemy_spr_enemy_0.tpe</tpe>
+  <tpe x="2" y="110" tpage="Default_0" entry="2">spr_platform_spr_platform_0.tpe</tpe>
+  <tpe x="110" y="2" tpage="Default_0" entry="4">spr_save_spr_save_0.tpe</tpe>
+  <tpe x="110" y="22" tpage="Default_0" entry="6">spr_powerup_spr_powerup_0.tpe</tpe>
+  <tpe x="38" y="38" tpage="Default_0" entry="8">spr_save_spr_save_1.tpe</tpe>
+</TextureGroup>

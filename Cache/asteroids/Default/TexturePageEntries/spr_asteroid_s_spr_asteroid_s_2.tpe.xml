@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>30</w>
+  <h>29</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>777063650</hash>
+  <xoffset>1</xoffset>
+  <yoffset>2</yoffset>
+  <cropWidth>30</cropWidth>
+  <cropHeight>29</cropHeight>
+  <ow>32</ow>
+  <oh>32</oh>
+  <image>spr_asteroid_s_spr_asteroid_s_2.tpe.png</image>
+</TPE>

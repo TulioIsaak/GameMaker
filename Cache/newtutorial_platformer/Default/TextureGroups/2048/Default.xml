@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">spr_wall_spr_wall_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="1">spr_player_spr_player_0.tpe</tpe>
+</TextureGroup>
